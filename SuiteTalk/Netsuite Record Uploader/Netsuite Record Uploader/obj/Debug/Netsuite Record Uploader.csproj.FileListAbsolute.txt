@@ -1,0 +1,42 @@
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.config
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.manifest
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.application
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.pdb
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite_Record_Uploader.Form1.resources
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite_Record_Uploader.Properties.Resources.resources
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.csproj.GenerateResource.Cache
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe.manifest
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.application
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.pdb
+D:\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.csprojResolveAssemblyReference.cache
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.config
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.pdb
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.manifest
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.application
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.pdb
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.csprojResolveAssemblyReference.cache
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite_Record_Uploader.Form1.resources
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite_Record_Uploader.Properties.Resources.resources
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.csproj.GenerateResource.Cache
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe.manifest
+C:\Imran Baig Work Data\projects\documents\visual studio 2013\Projects\TestSamples\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.application
+\\ALPKKHNB0239\Imran_test\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.config
+\\ALPKKHNB0239\Imran_test\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe
+\\ALPKKHNB0239\Imran_test\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.pdb
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.config
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.pdb
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite_Record_Uploader.Form1.resources
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite_Record_Uploader.Properties.Resources.resources
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.csproj.GenerateResource.Cache
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe.manifest
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.application
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.exe
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\bin\Debug\Netsuite Record Uploader.pdb
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.exe.manifest
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.application
+D:\SohailWorkspace\Imran NetSuite handover\Netsuite Record Uploader\Netsuite Record Uploader\obj\Debug\Netsuite Record Uploader.csprojResolveAssemblyReference.cache
